@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Toronto Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ago_name">Art Gallery of Ontario \(AGO\)</string>
+    <string name="ago_address">317 Dundas Street West.</string>
+    <string name="ago_phone">\(416\) 979\-6624</string>
+    <string name="ago_description">The Art Gallery of Ontario \(AGO\) \(French: Musee des beaux-arts de l\'Ontario\) is an art museum in Toronto, Ontario, Canada. Its collection includes more than 80,000 works spanning the first century to the present day. The gallery has 45,000 square metres \(480,000 sq ft\) of physical space, making it one of the largest galleries in North America. </string>
+</resources>
